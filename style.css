@@ -1,0 +1,85 @@
+/* 
+Theme Name: CSQUARED CHILD
+Theme URI: https://github.com/elementor/hello-theme/
+Description: Hello Elementor Child is a child theme of Hello Elementor, created by Elementor team
+Author: Elementor Team
+Author URI: https://elementor.com/
+Template: hello-elementor
+Version: 1.0.1
+Text Domain: hello-elementor-child
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, threaded-comments, translation-ready
+*/
+
+/*
+    Add your custom styles here
+*/
+
+
+.page-content {
+    max-width: 1444px !important;
+    margin: auto;s
+}
+
+.container {}
+
+
+/*   ===============  Global Theme Styles  =============== */
+
+
+/* Fluid Typography */
+
+h1 {font-size: clamp(1.5rem, 2.33vw + 0.954rem, 3.75rem);}
+h2 {font-size: clamp(1.25rem, 1.812vw + 0.825rem, 3rem);}
+h3 {font-size: clamp(1.5rem, 8vw - 2rem, 3rem);}
+h4 {font-size: clamp(1.5rem, 8vw - 2rem, 3rem);}
+h5 {font-size: clamp(1.5rem, 8vw - 2rem, 3rem);}
+h6 {font-size: clamp(1.5rem, 8vw - 2rem, 3rem);}
+
+/* End Fluid Typography */
+
+
+/* Form Styles */
+
+
+/* Form Styles */
+
+
+
+/*   ===============  Global Theme Styles  =============== */
+
+
+
+
+/* ============ Global Componenets =============== * /
+/* posts cards */
+
+.image-card {
+    height: 200px;
+    background-color: #cdcdcd;
+    margin-bottom: 8px;
+}
+
+/* end posts cards */
+
+/* ============ global componenets =============== * /
+
+/* spacing utitlities */
+.max-1336 { max-width: 1366px; margin: auto; }
+.max-1444 { max-width: 1444px; margin: auto; }
+.max-1920 { max-width: 1920px; margin: auto; }
+
+
+.padding_bottom { padding-bottom: 2%; }
+.padding_top { padding-top: 2%; }
+
+/* end spacing utitlities */
+
+
+/* Gravity forms styling */
+
+
+/*  ============================================ Responsive Styles ============================================ */
+
+
